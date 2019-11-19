@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "201794231483",
+    "firebase_url": "https://firbaseshop.firebaseio.com",
+    "project_id": "firbaseshop",
+    "storage_bucket": "firbaseshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201794231483:android:41290e77322a8c812add9e",
+        "android_client_info": {
+          "package_name": "com.lilylightup.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201794231483-8l4tg8kvtk272amllgshmv2q2pv398tf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lilylightup.shop",
+            "certificate_hash": "7d0fda0676485df03d7bdfa410f6b39d9bf9a3fa"
+          }
+        },
+        {
+          "client_id": "201794231483-a2eqaiidh1rfgi6ou5us3j1u8jihhdao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgDrLZCl01bJutbPA8ZeWqqgDZFmhkDqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201794231483-a2eqaiidh1rfgi6ou5us3j1u8jihhdao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
